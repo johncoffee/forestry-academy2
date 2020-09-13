@@ -13,6 +13,14 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
+  - academy-page
+- type: directory
+  path: content/academy-page
+  label: Academy pages
+  create: documents
+  match: "**/*"
+  new_doc_ext: md
+  templates:
   - blog-post
   - academy-page
 - type: document
