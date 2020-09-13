@@ -1,4 +1,22 @@
 ---
 label: academy-page
 hide_body: false
-fields: []
+fields:
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Content
+- name: materials_and_references
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: materials and references
