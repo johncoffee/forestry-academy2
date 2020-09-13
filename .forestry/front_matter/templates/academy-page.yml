@@ -27,4 +27,5 @@ fields:
       format: markdown
   label: materials and references
 pages:
+- content/academy-page/part-3.md
 - content/posts/Forst course material.md
