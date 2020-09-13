@@ -3,6 +3,11 @@ label: academy-page
 hide_body: false
 display_field: content
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
 - name: content
   type: textarea
   default: ''
@@ -21,3 +26,5 @@ fields:
     schema:
       format: markdown
   label: materials and references
+pages:
+- content/posts/Forst course material.md
