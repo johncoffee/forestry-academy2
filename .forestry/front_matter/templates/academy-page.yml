@@ -1,6 +1,7 @@
 ---
 label: academy-page
 hide_body: false
+display_field: content
 fields:
 - name: content
   type: textarea
