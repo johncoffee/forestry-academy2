@@ -21,3 +21,5 @@ fields:
     schema:
       format: markdown
   label: materials and references
+pages:
+- content/posts/Forst course material.md
