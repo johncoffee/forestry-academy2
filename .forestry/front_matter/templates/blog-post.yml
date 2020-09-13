@@ -37,6 +37,7 @@ fields:
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
 pages:
 - content/posts/an-essay-on-walking.md
+- content/posts/intro-to-forestry-economics.md
 - content/posts/ne-te-quaesiveris-extra.md
 - content/posts/on-the-geneology-of-morals.md
 - content/posts/song-of-myself.md
