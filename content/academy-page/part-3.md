@@ -1,7 +1,9 @@
 ---
-title: Part 3
-content: super nice
+title: Flo test Title
+content: 'super nice indeed '
 materials_and_references: ''
 
 ---
-lets look closer
+Very very nice 
+
+![](/content/images/image-19.png)
